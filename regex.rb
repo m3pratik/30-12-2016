@@ -1,5 +1,5 @@
 line1 = "Cats are smarter than dogs";
-line2 = "Dogs also like meat";
+line2 = "Cats also like meat";
 
 if ( line1 =~ /CATS(.*)/i  )
   puts "Line1 contains Cats"
