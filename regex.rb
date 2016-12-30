@@ -13,4 +13,4 @@ puts "Enter Username : "
 until (uname=~/^[a-z0-9_-]{3,16}$/)
 	puts "Enter Username : "
 	uname=gets.chomp
-	
+	end
